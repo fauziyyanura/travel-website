@@ -1,0 +1,12 @@
+h1 {width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 50px;
+    font font-size:70 ;
+}
+/*this is css model*/
+.box {
+    background:pink;
+    margin:100;
+}

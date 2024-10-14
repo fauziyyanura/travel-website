@@ -1,0 +1,18 @@
+<!DOCTYPE html!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>My First HTML Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CSS-Box-Model</h1>   
+    </header>
+    <main>
+      <p>
+       the css box model is a fundamental concept in web design that describes how elements are structured 
+       and rendered on a webpage.
+      </p>  
+    </main>
