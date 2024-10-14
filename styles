@@ -1,12 +1,13 @@
-h1 {width: 200px;
-    height: 100px;
-    padding: 20px;
-    border: 2px solid black;
-    margin: 50px;
-    font font-size:70 ;
+h1 {font font-size:70 ;
+color:blue;
 }
-/*this is css model*/
+/*this is css box model*/
 .box {
     background:pink;
     margin:100;
+    width: 200px;
+        height: 100px;
+        padding: 50px;
+        border: 2px solid black;
+        margin: 20px;
 }
